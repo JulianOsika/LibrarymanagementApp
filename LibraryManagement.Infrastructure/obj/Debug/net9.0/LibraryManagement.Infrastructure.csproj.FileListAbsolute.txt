@@ -1,0 +1,15 @@
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.deps.json
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Infrastructure.pdb
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Domain.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\bin\Debug\net9.0\LibraryManagement.Domain.pdb
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryM.7458E269.Up2Date
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\refint\LibraryManagement.Infrastructure.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.pdb
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\ref\LibraryManagement.Infrastructure.dll

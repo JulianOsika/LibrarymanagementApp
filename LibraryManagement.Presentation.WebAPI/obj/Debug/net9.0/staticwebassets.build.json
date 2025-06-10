@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lTgBYiiAlb1few5LWLobVIBAXgszhYv6jzBJFxgjLd0=",
+  "Source": "LibraryManagement.Presentation.WebAPI",
+  "BasePath": "_content/LibraryManagement.Presentation.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
