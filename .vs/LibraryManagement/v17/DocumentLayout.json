@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8D217D8-B4E7-49FE-BF9D-6BF4B73DBA2D}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.infrastructure\\persistence\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8D217D8-B4E7-49FE-BF9D-6BF4B73DBA2D}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\persistence\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\dtos\\updateloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\dtos\\updateloandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.webapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A98F231-EC9E-43FF-B32A-49410F919063}|LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj|solutionrelative:librarymanagement.presentation.webapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E69E76-78DB-48C2-A3F4-176A894619EE}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E69E76-78DB-48C2-A3F4-176A894619EE}|LibraryManagement.Domain\\LibraryManagement.Domain.csproj|solutionrelative:librarymanagement.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D217D8-B4E7-49FE-BF9D-6BF4B73DBA2D}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.infrastructure\\persistence\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D217D8-B4E7-49FE-BF9D-6BF4B73DBA2D}|LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj|solutionrelative:librarymanagement.infrastructure\\persistence\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +54,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateLoanDto.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Dtos\\UpdateLoanDto.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.WebAPI\\Dtos\\UpdateLoanDto.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Dtos\\UpdateLoanDto.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.WebAPI\\Dtos\\UpdateLoanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:22:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.WebAPI\\Controllers\\LoanController.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.WebAPI\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwFUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:13:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Domain\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "LibraryManagement.Domain\\Entities\\Loan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:12:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.WebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.WebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:56:41.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ReaderController.cs",
               "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\ReaderController.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Presentation.WebAPI\\Controllers\\ReaderController.cs",
               "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Controllers\\ReaderController.cs",
               "RelativeToolTip": "LibraryManagement.Presentation.WebAPI\\Controllers\\ReaderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T16:31:57.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Presentation.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.WebAPI\\Program.cs",
               "RelativeToolTip": "LibraryManagement.Presentation.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T18:05:58.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LibraryDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Infrastructure\\Persistence\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Infrastructure\\Persistence\\LibraryDbContext.cs",
@@ -72,8 +140,7 @@
               "RelativeToolTip": "LibraryManagement.Infrastructure\\Persistence\\LibraryDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:51:16.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T17:51:16.817Z"
             }
           ]
         }
