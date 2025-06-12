@@ -1,4 +1,5 @@
 using LibraryManagement.Infrastructure.Persistence;
+using LibraryManagement.Presentation.WebAPI.Middleware;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -32,6 +33,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<HeaderLoggingMiddleware>();
 
 app.UseAuthorization();
 
