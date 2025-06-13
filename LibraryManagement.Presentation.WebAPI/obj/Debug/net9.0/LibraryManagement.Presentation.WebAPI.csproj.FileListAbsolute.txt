@@ -172,3 +172,4 @@ C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\Lib
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Presentation.WebAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Presentation.WebAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Presentation.WebAPI\obj\Debug\net9.0\LibraryManagement.Presentation.WebAPI.sourcelink.json
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Presentation.WebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,5 +1,6 @@
 ﻿using LibraryManagement.Domain.Entities;
 using LibraryManagement.Infrastructure.Persistence;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -30,6 +31,7 @@ namespace LibraryManagement.Presentation.WebAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public IActionResult PostBook (Book book)
         {
             if (!ModelState.IsValid)

@@ -198,6 +198,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "LibraryManagement.Presentation.WebAPI.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "LibraryManagement.Presentation.WebAPI.Dtos.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "LibraryManagement.Presentation.WebAPI.Controllers.ReaderController",
     "Method": "GetAllReaders",
     "RelativePath": "api/Reader",
