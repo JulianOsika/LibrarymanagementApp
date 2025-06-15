@@ -52,5 +52,12 @@ namespace LibraryManagement.Presentation.RazorPages.Pages
             return Page();
 
         }
+
+        public IActionResult OnPostLogout()
+        {
+            HttpContext.Session.Remove("JWT");
+            return RedirectToPage("/Login");
+        }
+
     }
 }

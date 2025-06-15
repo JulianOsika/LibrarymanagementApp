@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\soap\\stats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\soap\\stats.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\soap\\stats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\soap\\stats.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +58,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:56:08.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:56:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:51:17.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:42:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stats.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:30:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stats.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\SOAP\\Stats.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T14:29:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Loans.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
               "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
               "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
               "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAxwEgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwDoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T13:38:56.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Loans.cshtml",
               "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",
               "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",

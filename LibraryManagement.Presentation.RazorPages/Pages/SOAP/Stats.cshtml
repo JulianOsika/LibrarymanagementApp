@@ -1,0 +1,13 @@
+﻿@page
+@model StatsModel
+@{
+    ViewData["Title"] = "Library stats (SOAP)";
+}
+
+<h2>Statystyki biblioteki</h2>
+
+<ul>
+    <li><strong>Liczba książek:</strong> @Model.Stats.BooksCount</li>
+    <li><strong>Liczba czytelników:</strong> @Model.Stats.ReadersCount</li>
+    <li><strong>Aktywne wypożyczenia:</strong> @Model.Stats.ActiveLoansCount</li>
+</ul>
