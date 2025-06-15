@@ -5,6 +5,8 @@ using System.Text.Json.Serialization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using SoapCore;
+using LibraryManagement.Presentation.WebAPI.SOAP;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
@@ -67,6 +70,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 
+builder.Services.AddSoapCore();
+builder.Services.AddScoped<ILibraryStatsService, LibraryStatsService>();
+
 
 var app = builder.Build();
 
@@ -77,16 +83,17 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseRouting();
+
 app.UseHttpsRedirection();
 
 app.UseAuthentication();
-
+app.UseAuthorization();
 
 app.UseMiddleware<HeaderLoggingMiddleware>();
 
-app.UseAuthorization();
-
-
 app.MapControllers();
+
+app.UseSoapEndpoint<ILibraryStatsService>("/LibraryStats.asmx", new SoapEncoderOptions());
 
 app.Run();

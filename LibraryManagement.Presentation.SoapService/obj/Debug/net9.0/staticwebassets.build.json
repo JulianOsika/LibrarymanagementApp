@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "p2C5vUyw0h0wxYkPYhDRAoobwoJEWDCLHVZSo/l6y6c=",
+  "Source": "LibraryManagement.Presentation.SoapService",
+  "BasePath": "_content/LibraryManagement.Presentation.SoapService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

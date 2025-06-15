@@ -1,0 +1,43 @@
+﻿@page
+@model LibraryManagement.Presentation.RazorPages.Pages.Admin.ReadersModel
+@{
+    ViewData["Title"] = "Readers";
+}
+
+<h2>Readers list</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Birthdate</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reader in Model.Readers)
+        {
+            <tr>
+                <td>@reader.Name</td>
+                <td>@reader.Surname</td>
+                <td>@reader.BirthDate</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@reader.Id" style="display:inline;">
+                        <button type="submit">Delete</button>
+                    </form>
+                    <a asp-page="/Admin/EditReader" asp-route-id="@reader.Id">
+                        <button type="button">Edit</button>
+                    </a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="/Admin/AddReader">
+    <button>Add reader</button>
+</a>
+
+

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "LibraryManagement.Presentation.WebAPI\\LibraryManagement.Presentation.WebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

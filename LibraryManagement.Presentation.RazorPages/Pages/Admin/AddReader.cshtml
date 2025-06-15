@@ -1,0 +1,23 @@
+﻿@page
+@model LibraryManagement.Presentation.RazorPages.Pages.Admin.AddReaderModel
+@{
+    ViewData["Title"] = "Add reader";
+}
+
+<h2>Add reader</h2>
+
+<form method="post">
+    <div>
+        <label>Name:</label>
+        <input asp-for="NewReader.Name" />
+    </div>
+    <div>
+        <label>Surname:</label>
+        <input asp-for="NewReader.Surname" />
+    </div>
+    <div>
+        <label>Birthdate:</label>
+        <input asp-for="NewReader.BirthDate" />
+    </div>
+    <button type="submit">Dodaj</button>
+</form>

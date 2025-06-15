@@ -215,6 +215,10 @@
               "target": "Package",
               "version": "[9.0.5, )"
             },
+            "SoapCore": {
+              "target": "Package",
+              "version": "[1.2.1.8, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[8.1.4, )"

@@ -1,0 +1,42 @@
+﻿@page
+@model LibraryManagement.Presentation.RazorPages.Pages.Admin.DashboardModel
+@{
+    ViewData["Title"] = "Panel administracyjny";
+}
+
+<h2>Panel administracyjny – Lista książek</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>Opis</th>
+            <th>Autor</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Description</td>
+                <td>@book.AuthorName @book.AuthorSurname</td>
+                <td>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@book.Id" style="display:inline;">
+                        <button type="submit">Usuń</button>
+                    </form>
+                    <a asp-page="/Admin/EditBook" asp-route-id="@book.Id">
+                        <button type="button">Edit</button>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-page="/Admin/AddBook">
+    <button>Dodaj książkę</button>
+</a>
+
+
