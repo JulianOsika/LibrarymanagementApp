@@ -1,0 +1,55 @@
+﻿@page
+@model LibraryManagement.Presentation.RazorPages.Pages.Admin.LoansModel
+@{
+    ViewData["Title"] = "Loans";
+}
+
+<h2>Loans list</h2>
+
+<a asp-page="/Admin/AddLoan">
+    <button type="button">Dodaj wypożyczenie</button>
+</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Book</th>
+            <th>Reader</th>
+            <th>Loan date</th>
+            <th>Return date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var loan in Model.Loans)
+        {
+            <tr>
+                <td>@loan.Book.Title</td>
+                <td>@loan.Reader.Name @loan.Reader.Surname</td>
+                <td>@loan.LoanDate.ToShortDateString()</td>
+                <td>
+                    @(loan.ReturnDate.HasValue
+                        ? loan.ReturnDate.Value.ToShortDateString()
+                        : "W trakcie")
+                </td>
+                <td>
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@loan.Id" style="display:inline;">
+                        <button type="submit">Usuń</button>
+                    </form>
+                </td>
+                <td>
+                    <div style="display: flex; gap: 6px;">
+                        @if (loan.ReturnDate == null)
+                        {
+                            <form method="post" asp-page-handler="Return" asp-route-id="@loan.Id">
+                                <button type="submit">Zwróć</button>
+                            </form>
+                        }
+                    </div>
+                </td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -173,6 +173,18 @@
         }
       }
     },
+    "/api/Book/available": {
+      "get": {
+        "tags": [
+          "Book"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Loan": {
       "get": {
         "tags": [
@@ -320,6 +332,29 @@
         }
       },
       "delete": {
+        "tags": [
+          "Loan"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Loan/return/{id}": {
+      "put": {
         "tags": [
           "Loan"
         ],

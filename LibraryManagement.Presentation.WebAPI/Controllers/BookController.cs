@@ -3,6 +3,7 @@ using LibraryManagement.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagement.Presentation.WebAPI.Controllers
 {
@@ -74,6 +75,17 @@ namespace LibraryManagement.Presentation.WebAPI.Controllers
             _context.SaveChanges();
 
             return NoContent();
+        }
+
+        [HttpGet("available")]
+        public async Task<IActionResult> GetAvailableBooks()
+        {
+            var books = await _context.Books
+                .Include(b => b.Loans)
+                .Where(b => !b.Loans.Any(l => l.ReturnDate == null))
+                .ToListAsync();
+
+            return Ok(books);
         }
     }
 }

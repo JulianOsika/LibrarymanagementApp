@@ -85,5 +85,23 @@ namespace LibraryManagement.Presentation.WebAPI.Controllers
 
             return NoContent();
         }
+
+        [HttpPut("return/{id}")]
+        public async Task<IActionResult> ReturnBook(int id)
+        {
+            var loan = await _context.Loans.FindAsync(id);
+
+            if (loan == null)
+                return NotFound();
+
+            if (loan.ReturnDate != null)
+                return BadRequest("Książka już została zwrócona.");
+
+            loan.ReturnDate = DateTime.Now;
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
     }
 }

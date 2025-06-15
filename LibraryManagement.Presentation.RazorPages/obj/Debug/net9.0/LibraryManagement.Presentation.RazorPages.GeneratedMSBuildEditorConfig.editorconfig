@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkQm9vay5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Julo/Desktop/WSEI/S4/Backend/Projekt zaliczeniowy/LibraryManagement/LibraryManagement.Presentation.RazorPages/Pages/Admin/AddLoan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkTG9hbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Julo/Desktop/WSEI/S4/Backend/Projekt zaliczeniowy/LibraryManagement/LibraryManagement.Presentation.RazorPages/Pages/Admin/AddReader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkUmVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -38,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Julo/Desktop/WSEI/S4/Backend/Projekt zaliczeniowy/LibraryManagement/LibraryManagement.Presentation.RazorPages/Pages/Admin/EditReader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFJlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Julo/Desktop/WSEI/S4/Backend/Projekt zaliczeniowy/LibraryManagement/LibraryManagement.Presentation.RazorPages/Pages/Admin/Loans.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTG9hbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Julo/Desktop/WSEI/S4/Backend/Projekt zaliczeniowy/LibraryManagement/LibraryManagement.Presentation.RazorPages/Pages/Admin/Readers.cshtml]

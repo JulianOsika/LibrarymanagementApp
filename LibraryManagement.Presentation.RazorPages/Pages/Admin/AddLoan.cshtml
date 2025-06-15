@@ -1,0 +1,19 @@
+﻿@page
+@model LibraryManagement.Presentation.RazorPages.Pages.Admin.AddLoanModel
+@{
+    ViewData["Title"] = "Dodaj wypożyczenie";
+}
+
+<h2>Dodaj wypożyczenie</h2>
+
+<form method="post">
+    <div>
+        <label>Książka:</label>
+        <select asp-for="NewLoan.BookId" asp-items="Model.BookOptions"></select>
+    </div>
+    <div>
+        <label>Czytelnik:</label>
+        <select asp-for="NewLoan.ReaderId" asp-items="Model.ReaderOptions"></select>
+    </div>
+    <button type="submit">Dodaj wypożyczenie</button>
+</form>

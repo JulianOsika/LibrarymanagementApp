@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\editreader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\editreader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\editreader.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\editreader.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\editbook.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\editbook.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\readers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\readers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\readers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\readers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|c:\\users\\julo\\desktop\\wsei\\s4\\backend\\projekt zaliczeniowy\\librarymanagement\\librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}|LibraryManagement.Presentation.RazorPages\\LibraryManagement.Presentation.RazorPages.csproj|solutionrelative:librarymanagement.presentation.razorpages\\pages\\admin\\loans.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,92 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditReader.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml.cs",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml.cs",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "Title": "Loans.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:15:02.892Z",
+              "WhenOpened": "2025-06-15T13:38:56.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditReader.cshtml",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditReader.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Title": "Loans.cshtml",
+              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",
+              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",
+              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Loans.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAxwDAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T13:14:21.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditBook.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml.cs",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml.cs",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:13:59.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditBook.cshtml",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\EditBook.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T13:13:58.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Readers.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml.cs",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml.cs",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml.cs",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T12:49:29.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Readers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Readers.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T12:47:12.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\Julo\\Desktop\\WSEI\\S4\\Backend\\Projekt zaliczeniowy\\LibraryManagement\\LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "LibraryManagement.Presentation.RazorPages\\Pages\\Admin\\Dashboard.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwBkAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T09:34:58.932Z",
+              "WhenOpened": "2025-06-15T13:36:13.187Z",
               "EditorCaption": ""
             }
           ]
