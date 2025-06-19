@@ -9,3 +9,4 @@ C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\Lib
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Domain\obj\Debug\net9.0\refint\LibraryManagement.Domain.dll
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.pdb
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Domain\obj\Debug\net9.0\ref\LibraryManagement.Domain.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Domain\obj\Debug\net9.0\LibraryManagement.Domain.sourcelink.json

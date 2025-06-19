@@ -41,6 +41,10 @@ namespace LibraryManagement.Presentation.WebAPI.Controllers
         [HttpPost]
         public IActionResult PostLoan(CreateLoanDto loanDto)
         {
+            var isLoaned = _context.Loans.Any(l => l.BookId == loanDto.BookId && l.ReturnDate == null);
+            if (isLoaned)
+                return BadRequest("Książka już jest wypożyczona.");
+
             var loan = new Loan
             {
                 ReaderId = loanDto.ReaderId,

@@ -13,3 +13,4 @@ C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\Lib
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\refint\LibraryManagement.Infrastructure.dll
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.pdb
 C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\ref\LibraryManagement.Infrastructure.dll
+C:\Users\Julo\Desktop\WSEI\S4\Backend\Projekt zaliczeniowy\LibraryManagement\LibraryManagement.Infrastructure\obj\Debug\net9.0\LibraryManagement.Infrastructure.sourcelink.json

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Presentation.RazorPages", "LibraryManagement.Presentation.RazorPages\LibraryManagement.Presentation.RazorPages.csproj", "{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagement.Tests", "LibraryManagement.Tests\LibraryManagement.Tests.csproj", "{DD1C298A-9B79-497E-A032-2C43352218B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4D1CF30-4562-4A57-AEC7-97E6A13E712C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1C298A-9B79-497E-A032-2C43352218B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1C298A-9B79-497E-A032-2C43352218B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1C298A-9B79-497E-A032-2C43352218B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1C298A-9B79-497E-A032-2C43352218B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
