@@ -1,28 +1,28 @@
 ﻿@page "{id:int}"
 @model LibraryManagement.Presentation.RazorPages.Pages.Admin.EditBookModel
 @{
-    ViewData["Title"] = "Edytuj książkę";
+    ViewData["Title"] = "Edit book";
 }
 
-<h2>Edytuj książkę</h2>
+<h2>Edit book</h2>
 
 <form method="post">
     <input type="hidden" asp-for="Book.Id" />
     <div>
-        <label>Tytuł:</label>
+        <label>Title:</label>
         <input asp-for="Book.Title" />
     </div>
     <div>
-        <label>Opis:</label>
+        <label>Decription:</label>
         <input asp-for="Book.Description" />
     </div>
     <div>
-        <label>Imię autora:</label>
+        <label>Author name:</label>
         <input asp-for="Book.AuthorName" />
     </div>
     <div>
-        <label>Nazwisko autora:</label>
+        <label>Author surname:</label>
         <input asp-for="Book.AuthorSurname" />
     </div>
-    <button type="submit">Zapisz zmiany</button>
+    <button type="submit">Save changes</button>
 </form>

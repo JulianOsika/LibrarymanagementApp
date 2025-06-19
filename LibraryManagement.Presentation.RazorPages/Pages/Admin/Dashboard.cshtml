@@ -1,18 +1,18 @@
 ﻿@page
 @model LibraryManagement.Presentation.RazorPages.Pages.Admin.DashboardModel
 @{
-    ViewData["Title"] = "Panel administracyjny";
+    ViewData["Title"] = "Books list";
 }
 
-<h2>Panel administracyjny – Lista książek</h2>
+<h2>Books list</h2>
 
 <table>
     <thead>
         <tr>
-            <th>Tytuł</th>
-            <th>Opis</th>
-            <th>Autor</th>
-            <th>Akcje</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Author</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -24,7 +24,7 @@
                 <td>@book.AuthorName @book.AuthorSurname</td>
                 <td>
                     <form method="post" asp-page-handler="Delete" asp-route-id="@book.Id" style="display:inline;">
-                        <button type="submit">Usuń</button>
+                        <button type="submit">Delete</button>
                     </form>
                     <a asp-page="/Admin/EditBook" asp-route-id="@book.Id">
                         <button type="button">Edit</button>
@@ -36,7 +36,7 @@
 </table>
 
 <a asp-page="/Admin/AddBook">
-    <button>Dodaj książkę</button>
+    <button>Add book</button>
 </a>
 
 

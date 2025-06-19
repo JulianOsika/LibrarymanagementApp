@@ -1,27 +1,27 @@
 ﻿@page
 @model LibraryManagement.Presentation.RazorPages.Pages.Admin.AddBookModel
 @{
-    ViewData["Title"] = "Dodaj książkę";
+    ViewData["Title"] = "Add book";
 }
 
-<h2>Dodaj książkę</h2>
+<h2>Add Book</h2>
 
 <form method="post">
     <div>
-        <label>Tytuł:</label>
+        <label>Title:</label>
         <input asp-for="NewBook.Title" />
     </div>
     <div>
-        <label>Opis:</label>
+        <label>Description:</label>
         <input asp-for="NewBook.Description" />
     </div>
     <div>
-        <label>Imię autora:</label>
+        <label>Author name:</label>
         <input asp-for="NewBook.AuthorName" />
     </div>
     <div>
-        <label>Nazwisko autora:</label>
+        <label>Author surname:</label>
         <input asp-for="NewBook.AuthorSurname" />
     </div>
-    <button type="submit">Dodaj</button>
+    <button type="submit">Add</button>
 </form>
